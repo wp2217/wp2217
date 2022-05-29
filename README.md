@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rock Wang.
+- 👀 I’m interested in developing and proficient in abap.
+- 🌱 I’m currently learning fiori and odata.
+- 📫 Please contact me at wp217@126.com or WeChat tianya_1235.
